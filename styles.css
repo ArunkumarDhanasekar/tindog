@@ -1,0 +1,81 @@
+
+
+#title{
+    background-color: #f02457;
+    color : whitesmoke;
+    
+    font-style: Monsterrat italic;
+    padding: 7% 15%;
+}
+.title-image{
+    transform: rotate(25deg);
+    width: 60%;
+    
+}
+.navbar-brand{
+    color : whitesmoke;
+    font-style: Monsterrat italic;
+}
+
+.nav-link {
+    color : whitesmoke;}
+h1{
+    font-size: 3rem;
+    line-height: 1.5;
+}
+h2{
+    font-size: 3rem;
+    line-height: 1.5;
+    font-style: Monsterrat bold;
+}
+#pricing{
+     text-align: center;
+     padding: 100px;
+}
+.pricing-column{
+    padding: 2% 4%;
+}
+#testimonials{
+    background-color: #f02457;
+    padding: 7% 15%;
+    
+    color : whitesmoke;
+    text-align: center;
+
+}
+.testimonial-image{
+    width : 10%;
+    border-radius: 100px;
+    margin: 20px;
+}
+#press{
+    text-align: center;
+    background-color:  #f02457;
+   
+    
+}
+.press-logo{
+    width : 13%;
+    padding: 2%;
+    margin-bottom: 2%;
+    
+}
+#cta{
+    text-align: center;
+    background-color:  #f02457;
+    padding: 7% 15%;
+    
+    color : whitesmoke;
+}
+.cta-heading{
+    font-style: Monsterrat bold;
+    font-size: 3.5rem;
+    line-height: 1.5;
+}
+.social-icon{
+margin: 20px 10px;
+}
+#footer{
+    text-align: center;
+    padding: 7% 15%;
+}
